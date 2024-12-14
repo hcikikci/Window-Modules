@@ -1,4 +1,4 @@
-# PyWindowManager
+# python-windows-manager
 
 A Python utility library for managing and controlling window operations in Windows OS.
 
